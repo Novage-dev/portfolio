@@ -11,7 +11,7 @@ import {
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { STATS } from "../data";
-import pfp from "../assets/profile.jpg";
+import pfp from "../assets/Photo.png";
 
 
 // Memoized Components
