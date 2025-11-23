@@ -276,7 +276,7 @@ cat > /var/www/index.php <<EOL
     </style>
 </head>
 <body>
-    <h1>Selamat Datang di Server $user_domain</h1>
+    <h1>welcome to my portfolio</h1>
     <?php phpinfo(); ?>
 </body>
 </html>
